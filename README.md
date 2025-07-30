@@ -1,12 +1,20 @@
-# React + Vite
+Corporate Website Development for Plex-Multisolutions Ltd
+I designed and developed the official website for Plex-Multisolutions Ltd, a dynamic business service company based in Abuja, Nigeria. The goal was to create a digital platform that reflects the company’s versatility and professionalism across its wide range of services—including printing, branding, graphic design, IT training, and digital media solutions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The website features:
 
-Currently, two official plugins are available:
+A clean, responsive design optimized for both desktop and mobile users Service-focused navigation to help clients quickly find relevant offerings Engaging visuals and content structure that align with the brand’s identity Contact and inquiry forms to streamline customer engagement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Work is currently ongoing to improve the site and add more functionalities.
 
-## Expanding the ESLint configuration
+🌐 Live Demo You can explore the live version here:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://plex-multisolutions.netlify.app/
+
+🛠️ Technologies Used HTML5, Tailwind CSS Node.js & npm Modern frontend framework (React) Netlify for deployment
+
+📂 Project Structure /project-root │ ├── public/ # Static assets ├── src/ # Source code │ ├── components/ # Reusable UI components │ ├── pages/ # Application pages │ └── styles/ # CSS/SCSS files ├── package.json # Project metadata and dependencies └── README.md # Project documentation
+
+📬 Contact For questions, suggestions, or contributions, feel free to reach out or open an issue.
+
+Thank you for checking out Plex Multisolutions!
