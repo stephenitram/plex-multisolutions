@@ -1,11 +1,10 @@
-Corporate Website Development for Plex-Multisolutions Ltd
-I designed and developed the official website for Plex-Multisolutions Ltd, a dynamic business service company based in Abuja, Nigeria. The goal was to create a digital platform that reflects the company’s versatility and professionalism across its wide range of services—including printing, branding, graphic design, IT training, and digital media solutions.
+A dynamic business service company based in Abuja, Nigeria. The goal was to create a digital platform that reflects the company’s versatility and professionalism across its wide range of services—including printing, branding, graphic design, IT training, and digital media solutions.
 
 The website features:
 
 A clean, responsive design optimized for both desktop and mobile users Service-focused navigation to help clients quickly find relevant offerings Engaging visuals and content structure that align with the brand’s identity Contact and inquiry forms to streamline customer engagement
 
-Work is currently ongoing to improve the site and add more functionalities.
+**_Work is currently ongoing to improve the site and add more functionalities_**
 
 🌐 Live Demo You can explore the live version here:
 
